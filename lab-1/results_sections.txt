@@ -1,0 +1,126 @@
+You can find signature of PE-file on 0x100
+Signature: 0x4550 
+Time from 16:00 31 December 1969 = 1622707751 seconds
+Number of sections: 10
+Entry point address: 0x00745196
+
+№01 Name -> .text 
+	Virtual size: 0x000b361c
+
+VirtualAddress:		 0x00001000
+Raw data offset:	 0x00000400
+Size of raw data:	 0x000b3800
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0x60000020
+
+№02 Name -> .itext 
+	Virtual size: 0x00001688
+
+VirtualAddress:		 0x000b5000
+Raw data offset:	 0x000b3c00
+Size of raw data:	 0x00001800
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0x60000020
+
+№03 Name -> .data 
+	Virtual size: 0x000037a4
+
+VirtualAddress:		 0x000b7000
+Raw data offset:	 0x000b5400
+Size of raw data:	 0x00003800
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0xc0000040
+
+№04 Name -> .bss 
+	Virtual size: 0x00006de8
+
+VirtualAddress:		 0x000bb000
+Raw data offset:	 0x00000000
+Size of raw data:	 0x00000000
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0xc0000000
+
+№05 Name -> .idata 
+	Virtual size: 0x00000f36
+
+VirtualAddress:		 0x000c2000
+Raw data offset:	 0x000b8c00
+Size of raw data:	 0x00001000
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0xc0000040
+
+№06 Name -> .didata 
+	Virtual size: 0x000001a4
+
+VirtualAddress:		 0x000c3000
+Raw data offset:	 0x000b9c00
+Size of raw data:	 0x00000200
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0xc0000040
+
+№07 Name -> .edata 
+	Virtual size: 0x0000009a
+
+VirtualAddress:		 0x000c4000
+Raw data offset:	 0x000b9e00
+Size of raw data:	 0x00000200
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0x40000040
+
+№08 Name -> .tls 
+	Virtual size: 0x00000018
+
+VirtualAddress:		 0x000c5000
+Raw data offset:	 0x00000000
+Size of raw data:	 0x00000000
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0xc0000000
+
+№09 Name -> .rdata 
+	Virtual size: 0x0000005d
+
+VirtualAddress:		 0x000c6000
+Raw data offset:	 0x000ba000
+Size of raw data:	 0x00000200
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0x40000040
+
+№10 Name -> .rsrc 
+	Virtual size: 0x00018c84
+
+VirtualAddress:		 0x000c7000
+Raw data offset:	 0x000ba200
+Size of raw data:	 0x00018e00
+Relocation offset:	 0x00000000
+Relocations number:	 0x00000000
+Line offset:		 0x00000000
+Lines number:		 0x00000000
+Characteristics:	 0x40000040
+
