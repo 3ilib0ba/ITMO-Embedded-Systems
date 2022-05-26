@@ -1,4 +1,4 @@
-#Задача:
+Задача:
 
 + Ознакомиться с документацией на файлы формата PE
 https://rsdn.org/article/baseserv/pe_coff.xml
